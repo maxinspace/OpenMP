@@ -41,7 +41,4 @@ int main() {
 	if (base_max == max) {
 		printf("correct\n");
 	}
-
-
-
 }
